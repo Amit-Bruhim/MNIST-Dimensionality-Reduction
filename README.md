@@ -25,6 +25,8 @@ The project utilizes the **MNIST dataset**, a famous collection of 70,000 graysc
 
 The main objective is to visualize the underlying structure of the data in 2D and explore the mathematical "sweet spot" where data can be significantly compressed while maintaining its essential characteristics.
 
+---
+
 ## Features
 
 - **From-Scratch PCA Implementation**: A complete Principal Component Analysis class built using NumPy, featuring manual covariance matrix calculation and eigenvalue decomposition.
